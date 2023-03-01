@@ -1,4 +1,8 @@
-# React Project
+# React JS Todo App With Firebase
+
+Demo - https://todoappf.onrender.com/
+
+A todo application in React JS with a firebase backend to store all of the todos. Using basic CRUD functionality within a React JS website utilizing the firestore cloud storage within firebase to manage the backend. All of the styling will be done with Tailwind CSS.
 
 ## Available Scripts
 
